@@ -145,7 +145,7 @@ conda list --explicit > ./test
 ```
 
 - conda list --explicit输出当前环境软件包的详细信息
-- “>“ 通过管道将信息输出至test文件
+- “>“ 通过重定向将信息输出至test文件
 
 
 
